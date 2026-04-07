@@ -1,0 +1,5 @@
+# Evidências e dados temporários
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
